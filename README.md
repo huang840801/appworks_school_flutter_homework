@@ -1,6 +1,6 @@
 # appworks_school_flutter_homework
 
-A new Flutter project.
+專案名稱只能小寫，我真的不是故意拼錯 AppWorks School。
 
 ## Getting Started
 
